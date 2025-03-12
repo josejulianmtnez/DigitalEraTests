@@ -1,0 +1,43 @@
+
+* {
+    background-color: #F0F0F0;
+    color: #00979c;
+}
+
+p {
+    color: rgb(136, 132, 132);
+}
+
+img {
+    width: 100px;
+}
+
+#example {
+    width: 700px;
+}
+
+#btn-1 {
+    padding: 15px;
+    background-color: #00979c;
+    border-radius: 30px;
+    font-size: 15px;
+    border: none;
+    color:  #F0F0F0;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+#btn-1:hover{
+    padding: 15px;
+    background-color: #001718;
+    border-radius: 30px;
+    font-size: 15px;
+    border: none;
+    color:  #F0F0F0;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+.resaltado {
+    color: #000000;
+}
